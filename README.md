@@ -1,1 +1,1 @@
-# Noted - Sales CRM
+# Noted - A Simple Sales CRM
